@@ -1,9 +1,9 @@
 **Shark-Resistant Gear Feasibility Analysis**
-
+---------------------------------------------------------------------
 **Overview**
 
 This project analyzes unprovoked shark attack data to assess the feasibility of expanding into shark-resistant protective gear. The analysis supports business decisions related to product design, customer targeting, and marketing strategy.
-
+---------------------------------------------------------------------
 **Business Objective**
 
 To determine whether data supports investment in shark-resistant gear by analyzing:
@@ -13,7 +13,7 @@ To determine whether data supports investment in shark-resistant gear by analyzi
 * Sport activities with highest exposure
 
 * Common injury patterns and affected body parts
-
+---------------------------------------------------------------------
 **Hypotheses**
 
 **1.** Most Shark attacks are unprovoke
@@ -24,7 +24,7 @@ To determine whether data supports investment in shark-resistant gear by analyzi
 
 **4.** Injuries are concentrated in specific body parts
 
-
+---------------------------------------------------------------------
 **Dataset**
 
 Source: Global Shark Attack File (GSAF)
@@ -40,7 +40,7 @@ Focus: Unprovoked, sport-related incidents
 * Matplotlib
 
 * Jupyter Notebook / Google Colab
-
+---------------------------------------------------------------------
 **Key Insights**
 
 * Majority of incidents are unprovoked
@@ -50,7 +50,7 @@ Focus: Unprovoked, sport-related incidents
 * Surfing, swimming, and wading dominate exposure
 
 * Lower limbs are the most commonly injured body parts
-
+---------------------------------------------------------------------
 **Business Recommendations**
 
 **1.** Launch male-focused protective gear initially
@@ -61,7 +61,7 @@ Focus: Unprovoked, sport-related incidents
 
 **4.** Use data-driven, non-fear-based marketing
 
-
-You can find our presentation in this link:
+---------------------------------------------------------------------
+**You can find our presentation in this link:**
 https://docs.google.com/presentation/d/1eTJTYzwIYBNvlgiKl4ZveXupgZmBjq7tBRLSwKBWei8/edit?usp=sharing
 
