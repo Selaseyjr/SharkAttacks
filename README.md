@@ -18,7 +18,7 @@ To determine whether data supports investment in shark-resistant gear by analyzi
 
 **1.** Most Shark attacks are unprovoke
 
-**2.**Male participants experience more sport-related shark attacks
+**2.** Male participants experience more sport-related shark attacks
 
 **3.** Activities beyond surfing require protective gear
 
